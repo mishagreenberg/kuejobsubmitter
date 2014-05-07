@@ -3,6 +3,8 @@ kuejobsubmitter
 
 command line job submitter for kue
 
+see https://github.com/learnboost/kue
+
 for use with tools like cron
 
 **arguments**
