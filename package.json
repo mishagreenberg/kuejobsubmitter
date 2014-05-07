@@ -1,5 +1,5 @@
 {
-  "name": "heliograph-util",
+  "name": "kuejobsubmitter",
   "version": "0.0.1",
   "dependencies": {
     "request":"*",
